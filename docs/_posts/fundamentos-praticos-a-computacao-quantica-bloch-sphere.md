@@ -1,4 +1,5 @@
 ---
+layout: post
 author: igor
 ---
 # Fundamentos práticos à computação quântica: Bloch sphere.
