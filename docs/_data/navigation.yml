@@ -1,6 +1,8 @@
 - name: Home
   link: /wiki
 - name: About
-  link: /about.html
+  link: /wiki/about.html
 - name: Blog
-  link: /blog.html
+  link: /wiki/blog.html
+- name: Staff
+  link: /wiki/staff.html

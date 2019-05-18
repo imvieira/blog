@@ -2,8 +2,6 @@
 layout: post
 author: igor
 ---
-# Fundamentos práticos à computação quântica: Bloch sphere.
-
 Esta é (provavelmente) uma longa lista de posts em relação à computação quântica.
 Como você pode ter ouvido falar, Computação Quântica é uma abordagem promissora para resolver certos problemas, que são difíceis mesmo para os supercomputadores mais rápidos.
 Processadores quânticos rudimentares já foram usados ​​para simular as propriedades de pequenas moléculas e resolver problemas otimização, e esses dispositivos agora são acessíveis para programação na nuvem.
