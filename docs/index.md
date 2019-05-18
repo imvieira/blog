@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Fundamentos Práticos à computação quântica: Bloch sphere
 
 Esta é (provavelmente) uma longa lista de posts em relação à computação quântica.
