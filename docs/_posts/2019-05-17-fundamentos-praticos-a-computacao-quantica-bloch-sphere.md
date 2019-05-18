@@ -1,7 +1,6 @@
 ---
 layout: post
 author: igor
-
 ---
 Esta é (provavelmente) uma longa lista de posts em relação à computação quântica.
 Como você pode ter ouvido falar, Computação Quântica é uma abordagem promissora para resolver certos problemas, que são difíceis mesmo para os supercomputadores mais rápidos.
@@ -65,10 +64,5 @@ Na representação da Bloch sphere, um qubit pode não só ser o sul ou norte da
 
 A única propriedade que faz a computação quântica ser tão especial, é que o qubit, diferente dos bits clássicos, podem sobrepor o estado 0 e 1.
 
----
-excerpt_separator: <!--more-->
----
-
  Com isso, concluo que um estado quântico de superposição pode ser escrito como uma combinação linear de `|1⟩` e `|0⟩`, sendo
 `|φ⟩ = α|0⟩+β|1⟩` .
- <!--more-->
