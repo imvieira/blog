@@ -3,6 +3,7 @@ layout: post
 author: igor
 categories: [quantum]
 tags: [ibmq, qiskit, quantum]
+permalink: /wiki/2019/05/17/fundamentos-praticos-a-computacao-quantica-bloch-sphere.md
 ---
 Esta é (provavelmente) uma longa lista de posts em relação à computação quântica.
 Como você pode ter ouvido falar, Computação Quântica é uma abordagem promissora para resolver certos problemas, que são difíceis mesmo para os supercomputadores mais rápidos.
