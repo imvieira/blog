@@ -2,4 +2,3 @@ theme: jekyll-theme-architect
 collections:
   authors:
     output: true
-permalink: /wiki/:title:output_ext
