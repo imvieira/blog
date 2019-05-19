@@ -2,4 +2,4 @@ theme: jekyll-theme-architect
 collections:
   authors:
     output: true
-permalink: /:categories/:year/:month/:day/:title:output_ext
+permalink: /wiki/:year/:month/:day/:title
