@@ -10,6 +10,15 @@ title: Home
   {% endfor %}
 </nav>
 
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
 # Introdução à computação quântica: Bloch sphere.
 
 Esta é (provavelmente) uma longa lista de posts em relação à computação quântica.
