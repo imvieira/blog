@@ -1,7 +1,7 @@
 ---
 layout: post
 author: igor
-categories: [blog, quantum]
+categories: [quantum]
 tags: [ibmq, qiskit, quantum]
 ---
 Esta é (provavelmente) uma longa lista de posts em relação à computação quântica.
