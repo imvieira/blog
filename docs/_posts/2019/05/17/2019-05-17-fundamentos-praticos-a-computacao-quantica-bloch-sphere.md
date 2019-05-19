@@ -1,27 +1,10 @@
 ---
-layout: default
-title: Home
+layout: post
+author: igor
+categories: [quantum]
+tags: [ibmq, qiskit, quantum]
+permalink: /wiki/1
 ---
-<nav>
-  {% for item in site.data.navigation %}
-    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
-      {{ item.name }}
-    </a>
-  {% endfor %}
-</nav>
-
-{% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-
-
-# Introdução prática à computação quântica: Bloch sphere.
-
 Esta é (provavelmente) uma longa lista de posts em relação à computação quântica.
 Como você pode ter ouvido falar, Computação Quântica é uma abordagem promissora para resolver certos problemas, que são difíceis mesmo para os supercomputadores mais rápidos.
 Processadores quânticos rudimentares já foram usados ​​para simular as propriedades de pequenas moléculas e resolver problemas otimização, e esses dispositivos agora são acessíveis para programação na nuvem.
@@ -80,10 +63,9 @@ O código utiliza um X gate, que é conhecido como "bit-flip", uma vez que muda 
 
 Se começar no estado `|0⟩` do polo norte, o X gate rotaciona para o sul da esfera `|1⟩`.
 
-Na representação da Bloch sphere, um qubit pode não só ser o sul o norte da esfera, mas tambem um estado que une os dois estados. Em outras palavras, um qubit pode existir em múltiplos estamos simultaneamente. Isso é basicamente a essência do princípio da superposição que acontece com as ondas naturais de partículas subatômicas.
+Na representação da Bloch sphere, um qubit pode não só ser o sul ou norte da esfera, mas tambem um estado que une os dois estados. Em outras palavras, um qubit pode existir em múltiplos estamos simultâneamente. Isso é basicamente a essência do princípio da superposição que acontece com as ondas naturais de partículas subatômicas.
 
 A única propriedade que faz a computação quântica ser tão especial, é que o qubit, diferente dos bits clássicos, podem sobrepor o estado 0 e 1.
 
-Um estado quântico de superposição pode ser escrito como uma combinação linear de `|1⟩` e `|0⟩`, sendo
+ Com isso, concluo que um estado quântico de superposição pode ser escrito como uma combinação linear de `|1⟩` e `|0⟩`, sendo
 `|φ⟩ = α|0⟩+β|1⟩` .
-
