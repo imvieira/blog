@@ -34,7 +34,7 @@ Os tipos de operações e algoritmos são um pouco diferentes daqueles usados �
 
 Computadores quânticos utilizam propriedades únicas de partículas subatômicas em conjunção com as teorias de ciência da computação para processar e armazenar informações. 
 
-Representação de informação digital convencional usa uma sequência de bits. Cada bit é basicamente a carga de um elétron. Se o elétron é carregado, o bit assume o valor 1; alternativamente o bit assume o valor 0 se o eletron não é carregado. Então, um bit pode ter o estado 0 ou 1.
+Representação de informação digital convencional usa uma sequência de bits. Cada bit é basicamente a carga de um elétron. Se o elétron é carregado, o bit assume o valor 1; alternativamente o bit assume o valor 0 se o elétron não é carregado. Então, um bit pode ter o estado 0 ou 1.
 
 Em sistemas de computação quântica como em sistemas clássicos, dois estados de sistemas distintos são necessários para representar um único dado. Por exemplo, considere um elétron de um átomo de hidrogênio que mostra o seu estado fundamental na Figura 1 seu estado excitado na Figura 2.
 
@@ -42,11 +42,11 @@ Em sistemas de computação quântica como em sistemas clássicos, dois estados 
 ![](img/Fig.2.png)
 
 
-Se fosse em um sistema clássico, pode-se considerar que o estado de excitação represente `|1⟩` e o estado fundamental represente `|0⟩`. Em geral, o elétron é um sistema quântico, que pode existir numa superposição linear de um estado fundamental e excitado. Isto é, este estado fundamental (0) com probabilidade e amplitude α e um estado de excitação (1) com probabilidade e amplitude β. Estes dois estados de sistema quântico são referidos como um _quibit_, e seu estado atual ψ pode ser qualquer combinação linear, ou conhecida como superposição, destes dois estados básicos. Veja a Figura 5.
+Se fosse em um sistema clássico, pode-se considerar que o estado de excitação represente `|1⟩` e o estado fundamental represente `|0⟩`. Em geral, o elétron é um sistema quântico, que pode existir numa superposição linear de um estado fundamental e excitado. Isto é, este estado fundamental (0) com probabilidade e amplitude α e um estado de excitação (1) com probabilidade e amplitude β. Estes dois estados de sistema quântico são referidos como um _qubit_, e seu estado atual ψ pode ser qualquer combinação linear, ou conhecida como superposição, destes dois estados básicos. Veja a Figura 5.
 
 ![](img/Fig.5.png)
 
-O estado de um _quibit_ pode ser visualizado como uma esfera imaginária e intuitiva na Figura 3 conhecida como _Bloch_ _sphere_. A seta da esfera representa o qubit. Os polos norte e sul representam o estado básico `|0⟩` e `|1⟩` , respectivamente; os outros pontos são superposições de `|0⟩` e `|1⟩`. Enquanto o bit em seu estado clássico pode ser polo norte e polo sul do equador, um _qubit_ pode ser qualquer ponto da esfera. Veja a Figura 3.
+O estado de um _qubit_ pode ser visualizado como uma esfera imaginária e intuitiva na Figura 3 conhecida como _Bloch_ _sphere_. A seta da esfera representa o qubit. Os polos norte e sul representam o estado básico `|0⟩` e `|1⟩` , respectivamente; os outros pontos são superposições de `|0⟩` e `|1⟩`. Enquanto o bit em seu estado clássico pode ser polo norte e polo sul do equador, um _qubit_ pode ser qualquer ponto da esfera. Veja a Figura 3.
 
 ![](img/Fig.3.png)
 
@@ -56,7 +56,7 @@ O interessante da Bloch sphere é que nos permite visualizar o qubit em coordena
 
 Note: Há quem argumente que, desde que o bit clássico é representado via voltagens, tal representação contém também coordenadas axis em dois polos.
 
-Quando um quibt é mensurado, como a gente já discutiu brevemente antes, colapsa em um dos dois polos, que é a direção que a seta no Bloch o representa. Se a seta é próxima ao polo norte, existe uma alta probabilidade de colapsar naquele polo, similarmente quando a seta é para sul.
+Quando um qubit é mensurado, como a gente já discutiu brevemente antes, colapsa em um dos dois polos, que é a direção que a seta no Bloch o representa. Se a seta é próxima ao polo norte, existe uma alta probabilidade de colapsar naquele polo, similarmente quando a seta é para sul.
 
 Para criar uma operação de um único qubit, siga os passos a seguir:
 
