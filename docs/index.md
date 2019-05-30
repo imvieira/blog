@@ -94,6 +94,5 @@ Um estado quântico de superposição pode ser escrito como uma combinação lin
 
 # Referências
 1. Parag K. Lala, _Principles of Modern Digital Design_, John Wiley and Sons, 2007.
-2. Ryan O'Donnell, Lecture 1: Introduction to the Quantum Circuit Model, CMU Quantum Computation. Carnegie-Mellon University, Pittsburgh, fall 2015.
-3. Steven Weinberg, _Dreams of a Final Theory_, Prentice Hall, 1992.
+2. Steven Weinberg, _Dreams of a Final Theory_, Prentice Hall, 1992.
 
