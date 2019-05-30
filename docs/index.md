@@ -61,7 +61,9 @@ Quando um qubit é mensurado, como a gente já discutiu brevemente antes, colaps
 Para criar uma operação de um único qubit, siga os passos a seguir:
 
 1 - Instale o Qiskit, uma ferramenta desenvolvida pela IBM Research, a Quantum Information Science Kit.
+
 2 - Vamos usar o IBM Q pela Cloud.
+
 3 - Importe o código QASM a seguir.
 
 `include "qelib1.inc";`
