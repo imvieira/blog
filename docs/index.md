@@ -86,7 +86,7 @@ O código utiliza um X gate, que é conhecido como "bit-flip", uma vez que muda 
 
 Se começar no estado `|0⟩` do polo norte, o X gate rotaciona para o sul da esfera `|1⟩`.
 
-Na representação da Bloch sphere, um qubit pode não só ser o sul o norte da esfera, mas tambem um estado que une os dois estados. Em outras palavras, um qubit pode existir em múltiplos estamos simultaneamente. Isso é basicamente a essência do princípio da superposição que acontece com as ondas naturais de partículas subatômicas.
+Na representação da Bloch sphere, um qubit pode não só ser o sul o norte da esfera, mas também um estado que une os dois estados. Em outras palavras, um qubit pode existir em múltiplos estados simultaneamente. Isso é basicamente a essência do princípio da superposição que acontece com as ondas naturais de partículas subatômicas.
 
 A única propriedade que faz a computação quântica ser tão especial, é que o qubit, diferente dos bits clássicos, podem sobrepor o estado 0 e 1.
 
